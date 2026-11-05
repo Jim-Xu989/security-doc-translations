@@ -29,6 +29,7 @@
 ## 当前收录
 - [`owasp/OWASP-GenAI-LLM-Top-10-2026-中文翻译.md`](owasp/OWASP-GenAI-LLM-Top-10-2026-中文翻译.md) —— OWASP 大语言模型应用 Top 10（2026 版）
 - [owasp/OWASP-Top-10-for-Agentic-Applications-2026-中文翻译.md](owasp/OWASP-Top-10-for-Agentic-Applications-2026-中文翻译.md) —— OWASP 智能体应用 Top 10（2026 版）
+- [owasp/State-of-Agentic-AI-Security-and-Governance-v2.01-中文翻译.md](owasp/State-of-Agentic-AI-Security-and-Governance-v2.01-中文翻译.md) —— OWASP 智能体式 AI 安全与治理现状（v2.01）
 
 ---
 *本仓库由 AI 辅助整理，仅供学习与研究参考。*
